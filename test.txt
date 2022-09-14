@@ -1,0 +1,2 @@
+Unstaged file for testing
+After staged, it will be appear on tree
